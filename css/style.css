@@ -1,0 +1,26 @@
+/*------------------- Universal style -------------------*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    color: #EEE4D6;
+    font-family: 'Lora', serif;
+    background-color: #1D2226;
+}
+
+.content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+/*------------------- Text style -------------------*/
+.tagLine {
+    margin: 20px 0px;
+}
